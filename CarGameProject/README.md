@@ -189,6 +189,7 @@ CarGameProject/
 ```
 
 ### **Credits**
-- **Gibril KHARFALLAH**: Graphics, Obstacles Design, and Scoring System.
+- **Junior NUMEN** (Team Leader): UI/UX Design, Animations, Game Interface, Scoring System.
+- **Gibril KHARFALLAH**: Graphics and Obstacles Design.
 - **Rayan HABES**: Game Logic, and Physics Implementations.
-- **Junior NUMEN**: UI/UX Design, Animations, and Game Interface.
+

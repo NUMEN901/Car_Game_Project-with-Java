@@ -42,7 +42,7 @@ In "Rush Hour", the player is a vehicle navigating through heavy traffic. The go
 ### **Installation Steps**
 1. **Clone the project**:
     ```bash
-    git clone git@github.com:EpitechMscProPromo2027/T-JAV-501-PAR_7.git
+    git clone git@github.com:NUMEN901/Car_Game_Project-with-Java.git
     ```
 
 2. **Navigate to the project folder**:
